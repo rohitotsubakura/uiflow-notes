@@ -1,0 +1,55 @@
+[Home]
+tweets
+tweet button
+--
+click tweet button
+===> compose/tweet
+
+[compose/tweet]
+input modal
+picture button
+gif button
+vote button
+schedule settings
+submit button
+--
+click add picture button
+===> open explorer
+click gif button
+===> i/foundmedia/search
+click vote button
+===> vote settings
+click schedule settings
+===> compose/tweet/schedule
+click submit with valid tweet
+===> Home
+click submit with invalid tweet 
+
+[i/foundmedia/search]
+gif image selection
+--
+choose image
+===> compose/tweet
+
+[open explorer]
+image files on your computer
+--
+choose image file
+===> compose/tweet
+
+[vote settings]
+variable choices
+text input
+submit button
+--
+set choices
+type question
+click submiit button
+===>Home
+
+[compose/tweet/schedule]
+date selectboxes
+--
+choose date
+click submit button
+===> Home
