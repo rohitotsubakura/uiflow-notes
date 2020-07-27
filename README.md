@@ -5,7 +5,7 @@ uiflowを使った既存サービスの写経メモ置き場
 既存Webサービスの画面遷移を写経することで、どのようにUI設計がされているかを学ぶため。
 
 ## 使うツール
-状態遷移の表現に、**uiflow**というフレームワークを使います。
+画面遷移の表現に、**uiflow**というフレームワークを使います。
 - [A shorthand for designing UI flows ](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
 - [もう保守されない画面遷移図は嫌なので、UI Flow図を簡単にマークダウンぽく書くエディタ作った](https://qiita.com/hirokidaichi/items/ff54a968bdd7bcc50d42)
 
