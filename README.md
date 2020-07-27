@@ -21,8 +21,9 @@ uiflowの記述には**vscode-uiflow**を使い、Markdown形式で管理でき�
 ## 約束事
 ### ディレクトリ構成
 - {serviceName}
-    - {date}_{scinario}.md
-    - {date}_{scinario}.svg
+    - {date}_{scinario}.txt : uiflow作成用
+    - {date}_{scinario}.md : ページ表示用
+    - {date}_{scinario}.png : uiflow図
 - こうしておけば1日で網羅できなかったり、途中で飽きたりしても画面ごとなので再開が容易。
 
 ### 書くこと
